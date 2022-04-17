@@ -10,7 +10,7 @@ Our advantages
 - Maximum speed!
 - Using the C language right from the code!
 
-## __Синтаксис кода__
+## __Code Syntax__
 
 code syntax is very similar to [Python](https://www.python.org/) syntax, but unlike it, there are absolutely no line separators in the language (Symbol ";")
 
