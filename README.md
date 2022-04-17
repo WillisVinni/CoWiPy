@@ -54,6 +54,9 @@ if | Condition.
 elif | If the previous condition is incorrect.
 else | If all the conditions were not correct.
 
+## Contract offer
+
+It is not an offer contract. Open source at https://github.com/WillisVinni/CoWiPy
 
 ## License
 
