@@ -43,7 +43,7 @@ print(name)
 ```
 Output: ``Some value``
 
-## __Functions__
+## __Other__
 
 Name | description
 --- | ---
